@@ -23,7 +23,7 @@ margin-left: 200px;
 .card-HP{
     height: 90vh;
     width: 70vw;
-     background-image:url(C:\Users\91805\Downloads\depression-main\depression-main\src\images\image.jpg) ;
+     background-image:url(../images/image.jpg) ;
 background-size: contain;
 backdrop-filter: blur(10px);
 margin-bottom: 10px;

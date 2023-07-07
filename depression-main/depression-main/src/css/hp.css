@@ -1,0 +1,47 @@
+.App{
+    background-image: url(https://post.psychcentral.com/wp-content/uploads/sites/4/2021/09/PC-Depression_Hub-Update-A_Resource_Guide_For_Coping_with_Depression-1200x628-Facebook-1200x628.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.card{
+    height: 80vh;
+    width: 80vw;
+}
+.carouselcont{
+width: 1200px;
+margin-left: 200px;
+
+}
+
+.d-block {
+    height: 100vh;
+    
+    backdrop-filter: blur(10px);
+}
+
+.card-HP{
+    height: 90vh;
+    width: 70vw;
+     background-image:url(C:\Users\91805\Downloads\depression-main\depression-main\src\images\image.jpg) ;
+background-size: contain;
+backdrop-filter: blur(10px);
+margin-bottom: 10px;
+}
+
+.card-body-HP{
+text-align: left;
+color: rgb(255, 255, 254);
+font-family:monospace;
+
+}
+
+h1{
+    color:rgb(215, 241, 15)
+}
+
+.imge{
+    width:200px;
+    float: right;
+
+}

@@ -1,0 +1,47 @@
+.Apps {
+  text-align: center;
+}
+
+.ham-car {
+  background-image:url(C:\Users\91805\Downloads\depression-main\depression-main\src\images\ima.jpg) ;
+
+  width: 80vw;
+  height: 130vh;
+  border-radius: 20px;
+  
+}
+
+.container {
+  padding: 50px;
+}
+
+.options {
+  padding: 20px;
+}
+
+.btn {
+  width: 700px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; 
+}
+
+
+
+.Apps-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.middle{
+  justify-content: center;
+}
